@@ -1,1 +1,3 @@
 # Semantic-Image-and-Text-Alignment
+## Business objective
+Adludio's project aimed to revolutionize the advertising production process by automating the creation of storyboards. By harnessing machine learning and computer vision, the company transformed written concepts into visually appealing storyboards, allowing clients to rapidly launch digital campaigns at a lower cost. This innovation aimed to elevate creativity, engagement, and campaign effectiveness.
